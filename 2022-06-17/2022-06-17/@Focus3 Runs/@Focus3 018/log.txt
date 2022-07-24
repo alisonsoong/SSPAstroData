@@ -1,0 +1,11 @@
+@focus3 focus run.
+TheSkyX Build 13150
+Search step size: 5000
+Initial exposure time: 1 seconds
+Samples per position: 3
+Temperature: 0C
+Filter Name: r`
+Filter Index: 2
+
+@focus3 sample 0, 0, @24000 = 0.739288
+Image too dim. Doubling exposure to 2.0000  seconds, disabling subframes, and restarting.
