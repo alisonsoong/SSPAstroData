@@ -1,0 +1,27 @@
+@focus3 focus run.
+TheSkyX Build 13150
+Search step size: 5000
+Initial exposure time: 1 seconds
+Samples per position: 3
+Temperature: 0C
+Filter Name: r'
+Filter Index: 3
+
+@focus3 sample 0, 0, @36443 = 0.859396
+@focus3 sample 0, 1, @36443 = 0.823924
+@focus3 sample 0, 2, @36443 = 0.809586
+@focus3 sample 1, 0, @41443 = 0.897882
+@focus3 sample 1, 1, @41443 = 0.891885
+@focus3 sample 1, 2, @41443 = 0.943300
+@focus3 sample 2, 0, @46443 = 0.935594
+@focus3 sample 2, 1, @46443 = 0.923589
+@focus3 sample 2, 2, @46443 = 0.956232
+@focus3 sample 3, 0, @51443 = 0.858101
+@focus3 sample 3, 1, @51443 = 0.823094
+@focus3 sample 3, 2, @51443 = 0.854743
+@focus3 sample 4, 0, @56443 = 0.807269
+@focus3 sample 4, 1, @56443 = 0.796487
+@focus3 sample 4, 2, @56443 = 0.800496
+@focus3 successful.
+Moving to final position 44700.
+Final sharpness measure: 1.01497
