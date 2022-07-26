@@ -10,3 +10,6 @@ and NOTE: there are two folders not included here:
   - team06_late
   - team07_early
   - team08_middle
+  
+- TA photos: includes
+  - 2022-06-15 photos
