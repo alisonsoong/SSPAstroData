@@ -13,3 +13,6 @@ and NOTE: there are two folders not included here:
   
 - TA photos: includes
   - 2022-06-15 photos
+  
+  
+OTHERWISE everything else is here :)
